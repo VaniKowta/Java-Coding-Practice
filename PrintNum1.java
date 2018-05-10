@@ -13,10 +13,10 @@ public class PrintNum1 {
 	}
 		
 	}
-	
+	// this is the new comment....
 	public static void main(String[] args) {
 		
-		PrintNum1.print(5);
+		PrintNum1.print(10); // changed number from 5 to 10
 
 	}
 
